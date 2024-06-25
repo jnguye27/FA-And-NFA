@@ -1,2 +1,6 @@
 # FA-And-NFA
-Finite and Non-deterministic Finite Automata
+Description:  
+Finite and Non-deterministic Finite Automata  
+  
+To compile:  
+make
