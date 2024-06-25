@@ -1,6 +1,6 @@
 # FA-And-NFA
 Description:  
-Finite and Non-deterministic Finite Automata  
+Simulates Finite and Non-deterministic Finite Automata structures through file inputs.
   
 To compile:  
 make
